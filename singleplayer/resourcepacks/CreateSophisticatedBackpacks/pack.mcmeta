@@ -1,0 +1,9 @@
+{
+    "pack": {
+    "pack_format":42,
+    "description": "Create: Sophisticated Backpacks Resourcepack made by LopyLuna!",
+    "supported_formats":{"min_inclusive":15,"max_inclusive":999}
+    },
+    "language": {}
+
+}
