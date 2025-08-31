@@ -19,7 +19,8 @@ This modpack is built for multiplayer that contains mods like "[Open Parties and
 
 ## Server setup
 This modpack contain a simple server build, to start it:
-1. Accept eula in **eula.txt**.
-2. Run `run.sh` or `run.bat`(depending on your system) to generate server essential files.
-3. Configure it for your needs. 
-To configure voice chat please read [this wiki](https://modrepo.de/minecraft/voicechat/wiki/server_setup)
+1. Run the installer.
+2. Move `mods/` and `config/` to the server config
+3. Run `run.sh` or `run.bat`(depending on your system).
+4. If you ever run a server, you know what to do next. 
+To configure voice chat read [this wiki](https://modrepo.de/minecraft/voicechat/wiki/server_setup)
