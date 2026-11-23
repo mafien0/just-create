@@ -237,7 +237,7 @@
         {
             "pakku_id": "LC9yu47ekUe5IImK",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "create"
             },
@@ -268,6 +268,50 @@
                     "required_dependencies": [],
                     "size": 19123767,
                     "date_published": "2026-04-21T22:20:03.579201Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ubyE3jsQcJUQzZpl",
+            "pakku_links": [
+                "LC9yu47ekUe5IImK",
+                "WfKoYeiZezKlpcxP"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "slice-and-dice"
+            },
+            "name": {
+                "modrinth": "Create Slice & Dice"
+            },
+            "id": {
+                "modrinth": "GmjmRQ0A"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "sliceanddice-4.3.4-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/D6mQaFRW/sliceanddice-4.3.4-neoforge.jar",
+                    "id": "D6mQaFRW",
+                    "parent_id": "GmjmRQ0A",
+                    "hashes": {
+                        "sha512": "18fc9c70d2958ad6a0e7106ca2a5659d664fe9d5001a02afbd0c7d6980749764fcd90203abb2b9c6d7b1c8e564e421be04dfca1aeb25974371d7deeabf4b96a3",
+                        "sha1": "bfcb12d13465caf6743f200fbd755b72705011e4"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc",
+                        "ordsPcFz"
+                    ],
+                    "size": 1356389,
+                    "date_published": "2026-09-20T09:52:46.741955Z"
                 }
             ]
         },
@@ -497,6 +541,53 @@
                     "required_dependencies": [],
                     "size": 618842,
                     "date_published": "2024-06-21T07:53:31.825561Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WfKoYeiZezKlpcxP",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "kotlin-for-forge"
+            },
+            "name": {
+                "modrinth": "Kotlin for Forge"
+            },
+            "id": {
+                "modrinth": "ordsPcFz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "kotlinforforge-5.13.0-all.jar",
+                    "mc_versions": [
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/9ZlVvei8/kotlinforforge-5.13.0-all.jar",
+                    "id": "9ZlVvei8",
+                    "parent_id": "ordsPcFz",
+                    "hashes": {
+                        "sha512": "64a26f73e3299ad09b350d3421e3f97a5ccd158d1936fb50fc57f3c88bf6fd33814568bf43a0886f79ada4be65d65d232d9e20a901833150ec5b89a01c46d459",
+                        "sha1": "b1d5563f4e3db9ec4a4a2b371560aa171d6de237"
+                    },
+                    "required_dependencies": [],
+                    "size": 7364729,
+                    "date_published": "2026-11-16T01:46:16.062185Z"
                 }
             ]
         },
