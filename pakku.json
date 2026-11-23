@@ -1,0 +1,28 @@
+{
+    "name": "Just Create",
+    "version": "1.2.0",
+    "overrides": [
+        "config"
+    ],
+    "client_overrides": [
+        "options.txt",
+        "icon.png"
+    ],
+    "projects": {
+        "rei": {
+            "side": "BOTH"
+        },
+        "xaeros-minimap": {
+            "side": "CLIENT"
+        },
+        "xaeros-world-map": {
+            "side": "CLIENT"
+        },
+        "no-chat-reports": {
+            "side": "BOTH"
+        },
+        "create": {
+            "side": "BOTH"
+        }
+    }
+}
